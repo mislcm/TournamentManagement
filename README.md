@@ -1,5 +1,5 @@
 # TournamentManagement
-It's a user-friendly application designed to handle various aspects of organizing and monitoring a sports tournament. Let me walk you through its features and the technologies I employed to develop it.
+It's a user-friendly application designed to handle various aspects of organising and monitoring a sports tournament. Let me walk you through its features and the technologies I employed to develop it.
 
 Features 
 
