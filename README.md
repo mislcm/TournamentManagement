@@ -18,4 +18,5 @@ Features
 7. Menu System A menu system ties everything together. Participants navigate through the functionalities seamlessly by choosing options such as registration, user display, user search, event display, leaderboard viewing, and scoring. 
 
 Development Tools 
+
 I developed this project using Python, leveraging its simplicity and versatility. The core functionalities are achieved through file operations, reading and writing to text files for user data, scores, and leaderboard information.
